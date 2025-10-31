@@ -2,9 +2,6 @@
 
 This is a full-stack ML project that built an interactive web dashboard to analyze and forecast real-time stock data.
 
-![Screenshot of the app](screenshots/Screenshot 2025-10-31 at 1.26.55 PM.jpg) 
-*(You can change the screenshot filename to your favorite one)*
-
 ---
 
 ### Features
@@ -19,7 +16,7 @@ This is a full-stack ML project that built an interactive web dashboard to analy
 
 1.  **Clone the repository:**
     ```bash
-    git clone [your-repo-url-here]
+    git clone [https://github.com/Robash/StockDashboard.git](https://github.com/Robash/StockDashboard.git)
     cd StockDashboard
     ```
 
@@ -33,7 +30,6 @@ This is a full-stack ML project that built an interactive web dashboard to analy
     ```bash
     pip install -r requirements.txt
     ```
-    *(We will create this requirements.txt file in the next step)*
 
 4.  **Download the NLTK model:**
     ```bash
@@ -56,7 +52,11 @@ This is a full-stack ML project that built an interactive web dashboard to analy
     ```bash
     streamlit run app.py
     ```
-    ### 🚀 Application Screenshots
+
+### 🚀 Application Screenshots
+
+**Main Forecast & Sentiment:**
+![Main App Screen](screenshots/Screenshot 2025-10-31 at 1.23.39 PM.jpg)
 
 **Company Profile & Key Stats:**
 ![Company Profile](screenshots/Screenshot 2025-10-31 at 1.26.55 PM.jpg)
