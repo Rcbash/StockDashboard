@@ -1,4 +1,4 @@
-# 📈 Real-Time Stock Analysis & Forecast Dashboard
+# 📈 Real-Time Stock Analysis & Forecast Dashboard!
 
 This is a full-stack ML project that built an interactive web dashboard to analyze and forecast real-time stock data.
 
