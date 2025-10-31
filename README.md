@@ -52,17 +52,14 @@ This is a full-stack ML project that built an interactive web dashboard to analy
     ```bash
     streamlit run app.py
     ```
-
 ### 🚀 Application Screenshots
 
 **Main Forecast & Sentiment:**
-![Main App Screen](screenshots/Screenshot 2025-10-31 at 1.23.39 PM.jpg)
+![Main App Screen](screenshots/01_forecast.jpg)
 
 **Company Profile & Key Stats:**
-![Company Profile](screenshots/Screenshot 2025-10-31 at 1.26.55 PM.jpg)
+![Company Profile](screenshots/02_profile.jpg)
 
 **Financials & Yearly Profits:**
-![Financials & Backtest](screenshots/Screenshot 2025-10-31 at 1.27.48 PM.jpg)
+![Financials & Backtest](screenshots/03_financials.jpg)
 
-**Embedded Backtest Report:**
-![Backtest Report](screenshots/Screenshot 2025-10-31 at 1.07.03 PM.jpg)
