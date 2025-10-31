@@ -54,12 +54,12 @@ This is a full-stack ML project that built an interactive web dashboard to analy
 ### 🚀 Application Screenshots
 
 **Main Forecast & Sentiment:**
-![Main App Screen](screenshots/01_forecast.jpg)
+![Main App Screen](screenshot/01_forecast.jpg)
 
 **Company Profile & Key Stats:**
-![Company Profile](screenshots/02_profile.jpg)
+![Company Profile](screenshot/02_profile.jpg)
 
 **Financials & Yearly Profits:**
-![Financials & Backtest](screenshots/03_financials.jpg)
+![Financials & Backtest](screenshot/03_financials.jpg)
 
 
