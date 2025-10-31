@@ -1,0 +1,18 @@
+# Virtual Environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# macOS junk file
+.DS_Store
+
+# Large Model Files
+# (A recruiter will run the train.py file to create these)
+*.keras
+*.h5
+*.joblib
+
+# Backtest Report
+*.html
